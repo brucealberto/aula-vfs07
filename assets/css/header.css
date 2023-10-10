@@ -1,0 +1,22 @@
+header {
+  width: 1024px;
+  margin: 30px auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+header nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+
+header nav ul li a {
+  margin: 0px 15px;
+  color: #3399cc;
+}
