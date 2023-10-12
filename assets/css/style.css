@@ -4,6 +4,7 @@
 /*Arquivos externos*/
 @import "./header.css";
 @import "./button.css";
+@import "./main.css";
 
 /*Reset Css*/
 * {
@@ -15,6 +16,7 @@
   vertical-align: baseline;
   text-decoration: none;
   font-family: 'Source Sans 3', sans-serif;
+  font-weight: 300;
 }
 
 .container {
